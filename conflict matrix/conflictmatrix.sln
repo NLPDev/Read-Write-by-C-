@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conflictmatrix", "conflictmatrix\conflictmatrix.csproj", "{114976AD-45AD-49C0-965C-ED4A95D17C80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{114976AD-45AD-49C0-965C-ED4A95D17C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114976AD-45AD-49C0-965C-ED4A95D17C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114976AD-45AD-49C0-965C-ED4A95D17C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114976AD-45AD-49C0-965C-ED4A95D17C80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

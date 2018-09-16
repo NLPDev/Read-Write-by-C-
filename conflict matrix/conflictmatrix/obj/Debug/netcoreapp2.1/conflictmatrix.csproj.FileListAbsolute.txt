@@ -1,0 +1,11 @@
+/Users/munrh/Projects/conflictmatrix/conflictmatrix/bin/Debug/netcoreapp2.1/conflictmatrix.deps.json
+/Users/munrh/Projects/conflictmatrix/conflictmatrix/bin/Debug/netcoreapp2.1/conflictmatrix.runtimeconfig.json
+/Users/munrh/Projects/conflictmatrix/conflictmatrix/bin/Debug/netcoreapp2.1/conflictmatrix.runtimeconfig.dev.json
+/Users/munrh/Projects/conflictmatrix/conflictmatrix/bin/Debug/netcoreapp2.1/conflictmatrix.dll
+/Users/munrh/Projects/conflictmatrix/conflictmatrix/bin/Debug/netcoreapp2.1/conflictmatrix.pdb
+/Users/munrh/Projects/conflictmatrix/conflictmatrix/obj/Debug/netcoreapp2.1/conflictmatrix.csprojAssemblyReference.cache
+/Users/munrh/Projects/conflictmatrix/conflictmatrix/obj/Debug/netcoreapp2.1/conflictmatrix.csproj.CoreCompileInputs.cache
+/Users/munrh/Projects/conflictmatrix/conflictmatrix/obj/Debug/netcoreapp2.1/conflictmatrix.AssemblyInfoInputs.cache
+/Users/munrh/Projects/conflictmatrix/conflictmatrix/obj/Debug/netcoreapp2.1/conflictmatrix.AssemblyInfo.cs
+/Users/munrh/Projects/conflictmatrix/conflictmatrix/obj/Debug/netcoreapp2.1/conflictmatrix.dll
+/Users/munrh/Projects/conflictmatrix/conflictmatrix/obj/Debug/netcoreapp2.1/conflictmatrix.pdb
